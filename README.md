@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **farhanrenardi/farhanrenardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/111ebonMs90YLu/giphy.gif" width="100%" alt="thumbs up kid" />
+</p>
