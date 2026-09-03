@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/111ebonMs90YLu/giphy.gif" width="100%" alt="thumbs up kid" />
+  <a href="https://farhanrenardi.github.io/Portfolio/">
+    <img src="https://media.giphy.com/media/111ebonMs90YLu/giphy.gif" width="100%" alt="Brent Rambo Thumbs Up" />
+  </a>
 </p>
